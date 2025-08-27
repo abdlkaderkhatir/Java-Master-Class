@@ -1,18 +1,10 @@
-package com.amigoscode;
+package com.abdelkader;
 
-import com.amigoscode.M0_JavaFundamentals.CalculateAgeOfAnyGivenDate;
-import com.amigoscode.M0_JavaFundamentals.PrintArgumentsPassedToMainInCapitalLetters;
-import com.amigoscode.M0_JavaFundamentals.ReturningNegativeOfaNumber;
-import com.amigoscode.M0_JavaFundamentals.SumOfProgramArguments;
-import com.amigoscode.M2_Files.WorkingWithFiles;
-import com.amigoscode.M3_Classes.Cat;
+import com.abdelkader.M3_Classes.Cat;
 
-import java.awt.Point;
-import java.sql.SQLOutput;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {

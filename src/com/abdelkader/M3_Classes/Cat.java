@@ -1,4 +1,4 @@
-package com.amigoscode.M3_Classes;
+package com.abdelkader.M3_Classes;
 
 public class Cat {
     private String name;

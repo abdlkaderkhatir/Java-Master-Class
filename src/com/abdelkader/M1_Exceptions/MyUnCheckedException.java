@@ -1,4 +1,4 @@
-package com.amigoscode.M1_Exceptions;
+package com.abdelkader.M1_Exceptions;
 
 public class MyUnCheckedException extends  RuntimeException{
 

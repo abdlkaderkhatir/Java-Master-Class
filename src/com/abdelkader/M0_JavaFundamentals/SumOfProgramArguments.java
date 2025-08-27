@@ -1,7 +1,5 @@
-package com.amigoscode.M0_JavaFundamentals;
+package com.abdelkader.M0_JavaFundamentals;
 
-import java.sql.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class SumOfProgramArguments {

@@ -1,4 +1,4 @@
-package com.amigoscode.M0_JavaFundamentals;
+package com.abdelkader.M0_JavaFundamentals;
 
 import java.time.LocalDate;
 import java.time.Month;
