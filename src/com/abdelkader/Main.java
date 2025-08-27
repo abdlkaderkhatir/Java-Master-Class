@@ -1,5 +1,6 @@
 package com.abdelkader;
 
+import com.abdelkader.M2_Strings.LongestStringInArray;
 import com.abdelkader.M3_Classes.Cat;
 
 import java.time.LocalDateTime;
@@ -93,7 +94,7 @@ public class Main {
         System.out.println(rose1.getName());
 
 
-
+        LongestStringInArray.main(args);
 
 
 
