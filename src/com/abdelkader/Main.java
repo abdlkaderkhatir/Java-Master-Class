@@ -2,6 +2,7 @@ package com.abdelkader;
 
 import com.abdelkader.M2_Arrays.ArraysOperations;
 import com.abdelkader.M3_Date_Time.Cat;
+import com.abdelkader.M4_Exceptions.ThrowingExceptions;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
@@ -94,7 +95,7 @@ public class Main {
         System.out.println(rose1.getName());
 
 
-        ArraysOperations.main(args);
+        ThrowingExceptions.main(args);
 
 
 
