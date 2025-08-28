@@ -1,6 +1,8 @@
 package com.abdelkader;
 
-import com.abdelkader.M2_Strings.LongestStringInArray;
+import com.abdelkader.M1_Strings.LongestStringInArray;
+import com.abdelkader.M2_Arrays.ArraysOperations;
+import com.abdelkader.M2_Arrays.PrintingEvenNumbersFromAnArray;
 import com.abdelkader.M3_Classes.Cat;
 
 import java.time.LocalDateTime;
@@ -94,7 +96,7 @@ public class Main {
         System.out.println(rose1.getName());
 
 
-        LongestStringInArray.main(args);
+        ArraysOperations.main(args);
 
 
 

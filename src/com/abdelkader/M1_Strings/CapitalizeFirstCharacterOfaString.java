@@ -1,4 +1,4 @@
-package com.abdelkader.M2_Strings;
+package com.abdelkader.M1_Strings;
 
 import java.util.Scanner;
 
