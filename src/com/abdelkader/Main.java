@@ -1,9 +1,7 @@
 package com.abdelkader;
 
-import com.abdelkader.M1_Strings.LongestStringInArray;
 import com.abdelkader.M2_Arrays.ArraysOperations;
-import com.abdelkader.M2_Arrays.PrintingEvenNumbersFromAnArray;
-import com.abdelkader.M3_Classes.Cat;
+import com.abdelkader.M3_Date_Time.Cat;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
