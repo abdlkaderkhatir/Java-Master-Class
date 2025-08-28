@@ -1,9 +1,9 @@
-package com.abdelkader.M1_Strings;
+package com.abdelkader.M5_Files;
 
 import java.io.*;
 import java.util.Scanner;
 
-public class WorkingWithFiles {
+public class WorkingWithFilesWithAmigosCode {
 
     public static void main(String[] args) {
         File file = createFile("src/abdelkader.txt");
