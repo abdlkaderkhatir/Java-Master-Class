@@ -1,8 +1,8 @@
 package com.abdelkader;
 
-import com.abdelkader.M2_Arrays.ArraysOperations;
 import com.abdelkader.M3_Date_Time.Cat;
-import com.abdelkader.M4_Exceptions.ThrowingExceptions;
+import com.abdelkader.M6_OOP.WorkingWithBigDecimal;
+import com.abdelkader.M7_CLI_PROJECT.Application;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
@@ -95,7 +95,8 @@ public class Main {
         System.out.println(rose1.getName());
 
 
-        ThrowingExceptions.main(args);
+//        ThrowingExceptions.main(args);
+        WorkingWithBigDecimal.main(args);
 
 
 
@@ -119,6 +120,13 @@ public class Main {
 
 //          ReturningNegativeOfaNumber.main(args);
 //            SumOfProgramArguments.main(args);
-        
+
+//        for (int i = 0; i < 1_000_000; i++) {
+//            new Person();
+//        }
+
+        Application.main(args);
+
     }
 }
+
